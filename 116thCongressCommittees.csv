@@ -1,0 +1,91 @@
+Name,Type,Chamber,Handle
+House Administration Dems,Committee,House,HouseAdmn_Dems
+House Administration GOP,Committee,House,HouseAdmnGOP
+House Agricultural Dems,Committee,House,HouseAgDems
+House Agricultural GOP,Committee,House,HouseAgGOP
+House Appropriations Dems,Committee,House,AppropsDems
+House Appropriations GOP,Committee,House,HouseAppropsGOP
+House Armed Services Dems,Committee,House,HASCDemocrats
+House Armed Services GOP,Committee,House,HASCRepublicans
+House Budget Dems,Committee,House,HouseBudgetDems
+House Budget GOP,Committee,House,
+House Climate Crisis Dems,Committee,House,ClimateCrisis
+House Climate Crisis GOP,Committee,House,
+House Education and Labor Dems,Committee,House,
+House Education and Labor GOP,Committee,House,EdLaborGOP
+House Energy and Commerce Dems,Committee,House,EnergyCommerce
+House Energy and Commerce GOP,Committee,House,HouseCommerce
+House Financial Services Dems,Committee,House,FSCDems
+House Financial Services GOP,Committee,House,FinancialCmte
+House Foreign Affairs Dems,Committee,House,HouseForeign
+House Foreign Affairs GOP,Committee,House,HouseForeignGOP
+House Homeland Security Dems,Committee,House,HomelandDems
+House Homeland Security GOP,Committee,House,HomelandGOP
+House Intelligence Dems,Committee,House,HouseIntel
+House Intelligence GOP,Committee,House,
+House Judiciary Dems,Committee,House,HouseJudiciary
+House Judiciary GOP,Committee,House,JudiciaryGOP
+House Modernization of Congress Dems,Committee,House,ModernizeCmte
+House Modernization of Congress GOP,Committee,House,
+House Natural Resources Dems,Committee,House,NRDems
+House Natural Resources GOP,Committee,House,NatResources
+House Oversight Dems,Committee,House,OversightDems
+House Oversight GOP,Committee,House,GOPoversight
+House Rules Dems,Committee,House,RulesDemocrats
+House Rules GOP,Committee,House,RulesReps
+"House Science, Space and Technology Dems",Committee,House,HouseScience
+"House Science, Space and Technology GOP",Committee,House,housesciencegop
+House Small Business Dems,Committee,House,HouseSmallBiz
+House Small Business GOP,Committee,House,HSBCgop
+House Transportation and Infrastructure Dems,Committee,House,TransportDems
+House Transportation and Infrastructure GOP,Committee,House,TransportGOP
+House Veterans' Affairs Dems,Committee,House,VetAffairsDems
+House Veterans' Affairs GOP,Committee,House,HouseVetAffairs
+House Ways and Means Dems,Committee,House,WaysMeansCmte
+House Ways and Means GOP,Committee,House,WaysandMeansGOP
+Joint Economic Dems,Committee,Joint,JECDems
+Joint Economics GOP,Committee,Joint,JECRepublicans
+Joint Library Dems,Committee,Joint,
+Joint Library GOP,Committee,Joint,
+Joint Printing Dems,Committee,Joint,
+Joint Printing GOP,Committee,Joint,
+Joint Taxation GOP,Committee,Joint,
+Joint Taxation GOP,Committee,Joint,
+Senate Aging Dems,Committee,Senate,DemsOnAging
+Senate Aging GOP,Committee,Senate,SenateAging
+Senate Agricultural Dems,Committee,Senate,SenateAgDems
+Senate Agricultural GOP,Committee,Senate,SenateAgGOP
+Senate Appropriations Dems,Committee,Senate,SenateApprops
+Senate Appropriations GOP,Committee,Senate,
+Senate Armed Services Dems,Committee,Senate,SASCDemocrats
+Senate Armed Services GOP,Committee,Senate,SASCMajority
+Senate Banking Dems,Committee,Senate,SenateBanking
+Senate Banking GOP,Committee,Senate,BankingGOP
+Senate Budget Dems,Committee,Senate,SenateBudget
+Senate Budget GOP,Committee,Senate,BudgetGOP
+Senate Commerce Dems,Committee,Senate,commercedems
+Senate Commerce GOP,Committee,Senate,SenateCommerce
+Senate Energy and Public Works Dems,Committee,Senate,EPWDems
+Senate Energy and Public Works GOP,Committee,Senate,EPWGOP
+Senate Energy Dems,Committee,Senate,EnergyDems
+Senate Energy GOP,Committee,Senate,EnergyGOP
+Senate Finance Dems,Committee,Senate,SenateFinance
+Senate Finance GOP,Committee,Senate,SenFinance
+Senate Foreign Relations Dems,Committee,Senate,
+Senate Foreign Relations GOP,Committee,Senate,SenateForeign
+"Senate Health, Education, Labor, and Pensions Dems",Committee,Senate,HelpCmteDems
+"Senate Health, Education, Labor, and Pensions GOP",Committee,Senate,GOPHELP
+Senate Homeland Security and Government Affairs Dems,Committee,Senate,HSGAC
+Senate Homeland Security and Government Affairs GOP,Committee,Senate,
+Senate Indian Affairs Dems,Committee,Senate,
+Senate Indian Affairs GOP,Committee,Senate,IndianCommittee
+Senate Judiciary Dems,Committee,Senate,JudiciaryDems
+Senate Judiciary GOP,Committee,Senate,senjudiciary
+Senate Policy Dems,Committee,Senate,
+Senate Policy GOP,Committee,Senate,SenateRPC
+Senate Rules and Administration Dems,Committee,Senate,
+Senate Rules and Administration GOP,Committee,Senate,SenateRules
+Senate Small Buziness and Entrepreneurship Dems,Committee,Senate,
+Senate Small Buziness and Entrepreneurship GOP,Committee,Senate,SmallBizCmte
+Senate Veterans' Affairs Dems,Committee,Senate,
+Senate Veterans' Affairs GOP,Committee,Senate,VAChair
